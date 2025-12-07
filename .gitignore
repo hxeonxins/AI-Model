@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS / IDE noise
+.DS_Store
+.idea/
+.vscode/
+
+# Training artifacts
+logs/
+saved_models/
+*.ckpt
+*.h5
+*.keras
+
+# Packaging
+*.zip
+
